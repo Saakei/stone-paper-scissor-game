@@ -4,8 +4,8 @@
 	padding: 0; 
 	margin: 0; 
 	box-sizing: border-box; 
-	/* background: #082c6c;  */
-	/* color: #000000;  */
+	background: #082c6c;  
+	color: #000000; 
 } 
 /* To center everything in game */
 .game{ 
